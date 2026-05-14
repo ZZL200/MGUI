@@ -1,5 +1,6 @@
 # MGUI
 Unity Ugui组件扩展，包含：
+
 1、Text->MText;
   文本，具体功能如图
   <img width="422" height="782" alt="image" src="https://github.com/user-attachments/assets/86c8fe34-4362-4312-be6f-ae630f22e5ad" />
