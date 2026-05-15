@@ -15,28 +15,28 @@ Unity Ugui组件扩展，包含：
 
 
 
-3、Text->MRawImage;
+3、RawImage->MRawImage;
 
 
 <img width="423" height="430" alt="image" src="https://github.com/user-attachments/assets/9b0f4428-50d7-4a87-9ff0-673e18a68866" />
 
 
 
-4、Text->MButton;
+4、Button->MButton;
 
 
 <img width="417" height="673" alt="image" src="https://github.com/user-attachments/assets/71b89a6b-ec1b-42e1-8adc-dd5d96aed51b" />
 
 
 
-5、Text->MScrollView;
+5、ScrollView->MScrollView;
 
 
 无限循环列表，使用直接调用接口 InitForLoop
 
 
 
-6、Text->MPolygon;
+6、MPolygon;
 
 多边形组件：
 
@@ -45,7 +45,7 @@ Unity Ugui组件扩展，包含：
 
 
 
-7、Text->MHole;
+7、MHole;
   挖洞，使用方式如图
 
   <img width="1734" height="659" alt="image" src="https://github.com/user-attachments/assets/af97720f-581d-4864-b1af-2ffe085ab0c2" />
